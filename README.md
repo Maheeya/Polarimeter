@@ -1,0 +1,2 @@
+# Polarimeter
+The design of the experiment is to explore how light intensity differs with a rotating linear polar filter. In order to make this experiment efficient I used a motor to which the filter will be attacthed to where I can vary the angle of the filter and measure the light intensity simultaneously. Therefore this experiment becomes automatic and be left in a black box without being tampered between each reading, reducing anomalies in results and precise readings. To automate this experiment I coded and Arduino Uno with a servo (motor) and a light sensor (TSL2591)
